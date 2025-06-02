@@ -1,4 +1,4 @@
 placeholder text
 
 
-![image](https://www.researchgate.net/publication/352891087/figure/fig1/AS:11431281394052260@1745427325739/Chemical-structure-of-niclosamide-and-MMV665807-Both-compounds-are-salicylanilides.tif)
+![image](https://www.mdpi.com/molecules/molecules-26-04005/article_deploy/html/images/molecules-26-04005-g001-550.jpg)
