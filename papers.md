@@ -1,5 +1,5 @@
 Our publications related to series 7:
 
-https://pmc.ncbi.nlm.nih.gov/articles/PMC11275179/
+#1 https://www.mdpi.com/2227-9059/12/7/1621
 
-https://www.mdpi.com/1420-3049/26/13/4005
+#2 https://www.mdpi.com/1420-3049/26/13/4005
